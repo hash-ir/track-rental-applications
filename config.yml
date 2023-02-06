@@ -1,0 +1,11 @@
+# -- Config file for the Immobilienscout24 API --
+
+# API Credentials
+client_key: <your client/consumer key>
+client_secret: <your client/consumer secret>
+
+# Resource URLs
+base_url: https://rest.immobilienscout24.de
+request_token_uri: /restapi/security/oauth/request_token
+user_auth_uri: /restapi/security/oauth/confirm_access
+access_token_uri: /restapi/security/oauth/access_token
