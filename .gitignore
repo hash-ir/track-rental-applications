@@ -1,0 +1,8 @@
+# Jupyter notebooks
+*.ipynb
+*.ipynb_checkpoints
+
+# IDE files
+.idea/
+.vscode/
+__pycache__/
